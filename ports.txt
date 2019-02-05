@@ -1,0 +1,50 @@
+A0	Digital Input 1
+A1	Digital Input 2
+A2	Digital Input 3
+A3	Digital Input 4
+A4	Green LED
+A5	
+A6	
+A7	
+A8	
+A9	
+A10	
+A11	Joystick Left
+A12	Joystick Up
+A13	Digital Output 4
+A14	Digital Output 5
+A15	Digital Output 6
+
+B0	Digital Input 5
+B1	Digital Input 6
+B2
+B3	Digital Output 1
+B4	Digital Output 2
+B5	Digital Output 3
+B6	Digital Output 3
+B7	Digital Output 4
+B8	Digital Output 5
+B9	Digital Output 6
+B10	
+B11	
+B12	Joystick Right
+B13	
+B14	
+B15	
+
+C0	Joystick Center
+C1	Joystick Down
+C2	
+C3	
+C4	Temperature Sensor
+C5	
+C6	Digital Output 1
+C7	Digital Output 2
+C8	Red LED
+C9	
+C10	OLED Display
+C11	
+C12	
+C13	
+C14	
+C15	
