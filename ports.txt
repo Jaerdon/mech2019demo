@@ -28,9 +28,9 @@ B9	Digital Output 6
 B10	
 B11	
 B12	Joystick Right
-B13	
-B14	
-B15	
+B13	SPI SCK
+B14	SPI SDO
+B15	SPI SDI
 
 C0	Joystick Center
 C1	Joystick Down
