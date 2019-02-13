@@ -37,7 +37,7 @@ C1	Joystick Down
 C2	
 C3	
 C4	Temperature Sensor
-C5	
+C5	PlugAndPlay External Module
 C6	Digital Output 1
 C7	Digital Output 2
 C8	Red LED
